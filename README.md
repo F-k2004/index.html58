@@ -16,7 +16,7 @@ canvas{display:block}
 .good{color:#9ff0ff}
 .mid{color:#ffd29f}
 .bad{color:#ff9f9f}
-.arn{color:#ffb366}
+.warn{color:#ffb366}
 .legend{
  position:absolute;right:16px;bottom:16px;
  font-size:12px;color:#aac;
